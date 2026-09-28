@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Software engineer based in Japan, working primarily in Ruby. Runs [やんちゃワークス](https://yancya.works), an independent practice offering information-processing consulting, event organizing, and web services, backed by Japan's Registered Information Security Specialist certification (No. 012740). Also organizes [やんちゃハウス](https://yancya.house), a RubyKaigi-season share house running since 2017.
+Software engineer based in Japan, working primarily in Ruby. Japan's Registered Information Security Specialist certification (No. 012740). Also organizes [やんちゃハウス](https://yancya.house), a RubyKaigi-season share house running since 2017.
 
 #### 活動
 
